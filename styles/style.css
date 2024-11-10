@@ -3,6 +3,16 @@
   --heading-font-family: "Newsreader", serif;
   --secondardy-font-family: "Varela", serif;
 }
+.navbar {
+  font-family: var(--heading-font-family);
+}
+.nav-link {
+  color: var(--branding-color);
+}
+.navbar-brand {
+  color: var(--branding-color);
+}
+
 h1 {
   font-family: var(--heading-font-family);
   font-optical-sizing: auto;
