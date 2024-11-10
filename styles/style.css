@@ -40,6 +40,9 @@ p {
   margin-left: 8;
   text-align: center;
 }
+.fa-brands {
+  color: var(--branding-color);
+}
 @media (max-width: 576px) {
   h1 {
     font-size: 35px;
