@@ -34,6 +34,7 @@ p {
   font-size: 32px;
   color: #426c1f;
   line-height: 25px;
+  line-height: 0.5px;
 }
 .btn-branding {
   background-color: var(--branding-color);
