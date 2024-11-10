@@ -32,3 +32,29 @@ p {
   font-size: 20px;
   padding: 15px 30px;
 }
+.btn-branding-more {
+  text-align: center;
+}
+
+.descriptions {
+  margin-left: 8;
+  text-align: center;
+}
+@media (max-width: 576px) {
+  h1 {
+    font-size: 35px;
+    margin-bottom: 2px;
+  }
+  .hero h2 {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  .btn-branding-more {
+    padding: 10px 25px;
+    font-size: 18px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+}
