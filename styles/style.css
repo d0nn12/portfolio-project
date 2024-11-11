@@ -27,7 +27,7 @@ p {
 }
 .hero {
   text-align: center;
-  padding: 160px 20px 100px;
+  padding: 100px 30px 100px;
 }
 .hero h2 {
   font-family: var(--heading-font-family);
@@ -54,6 +54,13 @@ p {
 .fa-brands {
   color: var(--branding-color);
 }
+.about-title {
+  font-size: 50px;
+}
+.about-container h1 {
+  font-size: 55px;
+}
+
 @media (max-width: 576px) {
   h1 {
     font-size: 35px;
